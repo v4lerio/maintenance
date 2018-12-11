@@ -1526,9 +1526,9 @@ chartjs-color@^2.1.0:
     chartjs-color-string "^0.5.0"
     color-convert "^0.5.3"
 
-chartjs-plugin-datalabels@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/chartjs-plugin-datalabels/-/chartjs-plugin-datalabels-0.3.0.tgz#f739a9a200a1cffb23206855bda5056c2ad6fca9"
+chartjs-plugin-datalabels@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/chartjs-plugin-datalabels/-/chartjs-plugin-datalabels-0.5.0.tgz#b9c7a99857b2a52b6db70f63fc9f3a65d887d523"
 
 chokidar@^2.0.0, chokidar@^2.0.2:
   version "2.0.3"
