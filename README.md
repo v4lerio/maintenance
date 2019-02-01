@@ -28,7 +28,7 @@ No documentation for CMMS currently produced.
 
 3. Run `php artisan migrate --seed`
 
-4. Login into the project with user: `admin@example.net`, password: `password`
+4. Login into the project with user: `admin@laravel-enso.com`, password: `password`
 
 
 ### Docker container support
